@@ -1,5 +1,5 @@
 ## Clone  UI nexflix
-# feito durante o bootCamp Impulso FullStack Web Developer -DIO
+# Feito durante o bootCamp Impulso FullStack Web Developer -DIO
 Usando HTML,CSS, JS e JQuery
 feito somente um carousel de filmes
 
